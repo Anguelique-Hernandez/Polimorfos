@@ -1,0 +1,14 @@
+C:\Users\jazmi\source\repos\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net6.0\Polimorfismo.ConceptosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jazmi\source\repos\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net6.0\Polimorfismo.ConceptosBasicos.AssemblyInfoInputs.cache
+C:\Users\jazmi\source\repos\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net6.0\Polimorfismo.ConceptosBasicos.AssemblyInfo.cs
+C:\Users\jazmi\source\repos\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net6.0\Polimorfismo.ConceptosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\jazmi\source\repos\Polimorfismo\Polimorfismo.ConceptosBasicos\bin\Debug\net6.0\Polimorfismo.ConceptosBasicos.exe
+C:\Users\jazmi\source\repos\Polimorfismo\Polimorfismo.ConceptosBasicos\bin\Debug\net6.0\Polimorfismo.ConceptosBasicos.deps.json
+C:\Users\jazmi\source\repos\Polimorfismo\Polimorfismo.ConceptosBasicos\bin\Debug\net6.0\Polimorfismo.ConceptosBasicos.runtimeconfig.json
+C:\Users\jazmi\source\repos\Polimorfismo\Polimorfismo.ConceptosBasicos\bin\Debug\net6.0\Polimorfismo.ConceptosBasicos.dll
+C:\Users\jazmi\source\repos\Polimorfismo\Polimorfismo.ConceptosBasicos\bin\Debug\net6.0\Polimorfismo.ConceptosBasicos.pdb
+C:\Users\jazmi\source\repos\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net6.0\Polimorfismo.ConceptosBasicos.dll
+C:\Users\jazmi\source\repos\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net6.0\refint\Polimorfismo.ConceptosBasicos.dll
+C:\Users\jazmi\source\repos\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net6.0\Polimorfismo.ConceptosBasicos.pdb
+C:\Users\jazmi\source\repos\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net6.0\Polimorfismo.ConceptosBasicos.genruntimeconfig.cache
+C:\Users\jazmi\source\repos\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net6.0\ref\Polimorfismo.ConceptosBasicos.dll

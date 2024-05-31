@@ -1,0 +1,14 @@
+C:\Users\jazmi\source\repos\Polimorfismo\Demolterfaces\bin\Debug\net6.0\Demolterfaces.exe
+C:\Users\jazmi\source\repos\Polimorfismo\Demolterfaces\bin\Debug\net6.0\Demolterfaces.deps.json
+C:\Users\jazmi\source\repos\Polimorfismo\Demolterfaces\bin\Debug\net6.0\Demolterfaces.runtimeconfig.json
+C:\Users\jazmi\source\repos\Polimorfismo\Demolterfaces\bin\Debug\net6.0\Demolterfaces.dll
+C:\Users\jazmi\source\repos\Polimorfismo\Demolterfaces\bin\Debug\net6.0\Demolterfaces.pdb
+C:\Users\jazmi\source\repos\Polimorfismo\Demolterfaces\obj\Debug\net6.0\Demolterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jazmi\source\repos\Polimorfismo\Demolterfaces\obj\Debug\net6.0\Demolterfaces.AssemblyInfoInputs.cache
+C:\Users\jazmi\source\repos\Polimorfismo\Demolterfaces\obj\Debug\net6.0\Demolterfaces.AssemblyInfo.cs
+C:\Users\jazmi\source\repos\Polimorfismo\Demolterfaces\obj\Debug\net6.0\Demolterfaces.csproj.CoreCompileInputs.cache
+C:\Users\jazmi\source\repos\Polimorfismo\Demolterfaces\obj\Debug\net6.0\Demolterfaces.dll
+C:\Users\jazmi\source\repos\Polimorfismo\Demolterfaces\obj\Debug\net6.0\refint\Demolterfaces.dll
+C:\Users\jazmi\source\repos\Polimorfismo\Demolterfaces\obj\Debug\net6.0\Demolterfaces.pdb
+C:\Users\jazmi\source\repos\Polimorfismo\Demolterfaces\obj\Debug\net6.0\Demolterfaces.genruntimeconfig.cache
+C:\Users\jazmi\source\repos\Polimorfismo\Demolterfaces\obj\Debug\net6.0\ref\Demolterfaces.dll

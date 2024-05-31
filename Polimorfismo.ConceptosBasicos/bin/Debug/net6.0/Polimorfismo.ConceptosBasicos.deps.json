@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Polimorfismo.ConceptosBasicos/1.0.0": {
+        "runtime": {
+          "Polimorfismo.ConceptosBasicos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polimorfismo.ConceptosBasicos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
